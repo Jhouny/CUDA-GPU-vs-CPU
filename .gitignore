@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Folders
+x64/*
+.vs/*
+
+# Files
+.gitignore~
+..gitignore.un~
+.gitignore.swp~
+.gitignore.swp
